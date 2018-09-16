@@ -24,11 +24,19 @@ Pyaudio and Wave:
 pip install pyaudio
 pip install wave
 ```
-Additionally, if you want to be able to open the links directly:
+Additionally, if you want to be able to open the links directly (i.e. I'm feeling lucky!):
 BeautifulSoup4, requests
 ```
 pip install beautifulsoup4
 pip install requests
+pip install lxml
 ```
 ## Next Steps
+
 Just clone or download the folder, open the py file however you'd like and talk into your mic!
+
+### I'm feeling lucky!
+
+Comment out this line in the code:
+webbrowser.open("https://google.com/search?q=" + command)
+and uncomment the section of the program already commented.
