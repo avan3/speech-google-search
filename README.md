@@ -19,10 +19,6 @@ Speech Recognition:
 ```
 pip install SpeechRecognition
 ```
-Web Browser:
-```
-pip install webbrowser
-```
 Pyaudio and Wave:
 ```
 pip install pyaudio
