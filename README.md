@@ -25,7 +25,7 @@ pip install pyaudio
 pip install wave
 ```
 Additionally, if you want to be able to open the links directly (i.e. I'm feeling lucky!):
-BeautifulSoup4, requests
+BeautifulSoup4, requests, lxml
 ```
 pip install beautifulsoup4
 pip install requests
@@ -37,6 +37,6 @@ Just clone or download the folder, open the py file however you'd like and talk 
 
 ### I'm feeling lucky!
 
-Comment out this line in the code:
-webbrowser.open("https://google.com/search?q=" + command)
+Comment out this line in the code:  
+webbrowser.open("https://google.com/search?q=" + command)  
 and uncomment the section of the program already commented.
