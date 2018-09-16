@@ -25,9 +25,10 @@ pip install pyaudio
 pip install wave
 ```
 Additionally, if you want to be able to open the links directly:
-BeautifulSoup4
+BeautifulSoup4, requests
 ```
 pip install beautifulsoup4
+pip install requests
 ```
 ## Next Steps
 Just clone or download the folder, open the py file however you'd like and talk into your mic!
