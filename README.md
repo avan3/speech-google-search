@@ -17,7 +17,7 @@ Python 3.x
 ### Installing
 Speech Recognition:
 ```
-pip install speech_recognition
+pip install SpeechRecognition
 ```
 Web Browser:
 ```
